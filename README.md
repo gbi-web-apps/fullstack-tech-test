@@ -13,15 +13,12 @@ This test requires a SQL Server database, if not already installed, a free versi
 1. Create a database in SQL Server using the script in the root folder (db-schema.sql).
 2. Scaffold Entity Framework models from the database.
 3. In the React app, create a table for a list of people and make a call back to the server to retrieve the data from the database created in the previous steps. The end result should look similar to the following example:
-   
 ![List Image](ClientApp/public/list.png "Example list image")
 4. Add functionality to the persons name so that when it's clicked the user gets a view of the data for that individual as shown below:
-   
 ![Person Image](ClientApp/public/person.png "Example person image") 
 5. Add the necessary functionality so that the information can be changed, saved back to the server and the database.
 6. When a successful response has been saved the user should be returned to the original list and the list should be updated with the changes.
 7. Add an extra column to the list to indicate if a persons full name can be spelt the same whether it is forwards or backwards, Ignoring spaces and case:
-   
 ![Person Image](ClientApp/public/palindrome.png "Example palindrome image") 
 
 ** Extra ** 
