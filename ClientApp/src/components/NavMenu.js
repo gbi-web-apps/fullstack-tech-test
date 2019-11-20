@@ -25,7 +25,7 @@ export class NavMenu extends Component {
       <header>
         <Navbar className="navbar-expand-sm navbar-toggleable-sm ng-white border-bottom box-shadow mb-3" light>
           <Container>
-            <NavbarBrand tag={Link} to="/">Ful Stack Tech Test</NavbarBrand>
+            <NavbarBrand tag={Link} to="/">Full Stack Tech Test</NavbarBrand>
           </Container>
         </Navbar>
       </header>
