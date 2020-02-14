@@ -1,6 +1,6 @@
 # Full Stack Technical Test
 
-This test requires that you use the scaffolded application to build functionality inline with the instructions below. The initial structure of the application is based on ASP.NET Core [React project template](https://docs.microsoft.com/en-us/aspnet/core/client-side/spa/react?view=aspnetcore-3.0&tabs=visual-studio), feel free do add any additional libraries you want to use. 
+This test requires that you use the scaffolded application to build functionality inline with the instructions below. The initial structure of the application is based on ASP.NET Core [React project template](https://docs.microsoft.com/en-us/aspnet/core/client-side/spa/react?view=aspnetcore-3.0&tabs=visual-studio), feel free to add any additional libraries you want to use to complete the exercise. 
 
 Please clone the project and create your own repository from it, do not branch from this project. Once you are ready, send a link to the repository you have created so that it can be reviewed.
 
